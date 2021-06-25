@@ -9,7 +9,6 @@
 ในโครงการนี้จะจัดทำโค้ดสำหรับส่งข้อมูลสองแบบด้วยกัน คือ ใช้ AWS IoT Core สำหรับบริการ PubSub และอีกรูปแบบคือ ใช้ MQTT Server ในการส่งข้อมูล
 <p align="center">
   <img src="doc/ESP8266TempuratureOutput1.jpg" width="1200" align="center" alt="อุปกรณ์ที่ประกอบเสร็จแล้ว" title="อุปกรณ์ที่ประกอบเสร็จแล้ว" caption="อุปกรณ์ที่ประกอบเสร็จแล้ว">
-</p>
   <img src="doc/ESP8266TempuratureOutput2.jpg" width="300" align="center" alt="อุปกรณ์ที่ประกอบเสร็จแล้ว" title="อุปกรณ์ที่ประกอบเสร็จแล้ว" caption="อุปกรณ์ที่ประกอบเสร็จแล้ว">
   <img src="doc/ESP8266TempuratureOutput3.jpg" width="300" align="center" alt="อุปกรณ์ที่ประกอบเสร็จแล้ว" title="อุปกรณ์ที่ประกอบเสร็จแล้ว" caption="อุปกรณ์ที่ประกอบเสร็จแล้ว">
 </p>
