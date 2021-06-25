@@ -4,10 +4,10 @@
 
 const char* ssid = WLAN_SSID; // Enter your WiFi name
 const char* password =  WLAN_PASS; // Enter WiFi password
-const char* mqttServer = "xxxxx";
-const int mqttPort = xxxxx;
-const char* mqttUser = "xxxxx";
-const char* mqttPassword = "xxxxx";
+const char* mqttServer = "202.139.197.40";
+const int mqttPort = 1883;
+const char* mqttUser = "hapybot";
+const char* mqttPassword = "Depa@1234";
  
 WiFiClient espClient;
 PubSubClient client(espClient);
@@ -60,3 +60,4 @@ void mqtt_msg(String Text){
   client.publish("temi4", (Text).c_str(), true);
   //client.publish("temi4", ("Ambient: " + String(mlx.readAmbientTempC()) + " C").c_str(), true);
 }
+
