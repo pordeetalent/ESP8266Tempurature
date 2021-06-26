@@ -11,7 +11,6 @@
   <img src="doc/ESP8266TempuratureOutput1.jpg" width="1200" align="center" alt="อุปกรณ์ที่ประกอบเสร็จแล้ว" title="อุปกรณ์ที่ประกอบเสร็จแล้ว" caption="อุปกรณ์ที่ประกอบเสร็จแล้ว">
  <br>
   <img src="doc/ESP8266TempuratureOutput2.jpg" width="300" align="center" alt="อุปกรณ์ที่ประกอบเสร็จแล้ว" title="อุปกรณ์ที่ประกอบเสร็จแล้ว" caption="อุปกรณ์ที่ประกอบเสร็จแล้ว">
- <br>
   <img src="doc/ESP8266TempuratureOutput3.jpg" width="300" align="center" alt="อุปกรณ์ที่ประกอบเสร็จแล้ว" title="อุปกรณ์ที่ประกอบเสร็จแล้ว" caption="อุปกรณ์ที่ประกอบเสร็จแล้ว">
 </p>
 
