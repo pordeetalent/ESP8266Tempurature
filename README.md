@@ -11,9 +11,9 @@
   <img src="doc/ESP8266TempuratureOutput1.jpg" width="1200" align="center">
 </p>
 <p align="center"> 
-  <img src="doc/ESP8266TempuratureOutput2.jpg" width="400" align="center">
+  <img src="doc/ESP8266TempuratureOutput2.jpg" width="320" align="center">
   <img width="10" align="center">
-  <img src="doc/ESP8266TempuratureOutput3.jpg" width="400" align="center">
+  <img src="doc/ESP8266TempuratureOutput3.jpg" width="320" align="center">
 </p>
 
 ## อุปกรณ์ที่ใช้
