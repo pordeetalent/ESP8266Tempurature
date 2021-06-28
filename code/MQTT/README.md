@@ -47,9 +47,9 @@ MQTT Server เป็นบริการ IoT ของ MQTT โดยรูป
 
 ### ไลบรารี่ที่ต้องใช้
 
-- ติดตั้ง ESP8266WiFi.h &emsp; &emsp; เวอร์ชั่น 1.0.0
-- ติดตั้ง PubSubClient.h &emsp; &emsp; เวอร์ชั่น 2.7.0
-- ติดตั้ง DHT.h &emsp; &emsp; &emsp; เวอร์ชั่น 1.4.2
+- ติดตั้ง ESP8266WiFi.h          เวอร์ชั่น 1.0.0
+- ติดตั้ง PubSubClient.h         เวอร์ชั่น 2.7.0
+- ติดตั้ง DHT.h                  เวอร์ชั่น 1.4.2
 - ติดตั้ง TridentTD_LineNotify.h เวอร์ชั่น 3.0.2
 
 ## จัดทำบอร์ด
